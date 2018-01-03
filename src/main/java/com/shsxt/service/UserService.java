@@ -8,7 +8,9 @@ public interface UserService {
     /**
      * 用户登录
      * @param userName
-     * @param passworld
+     * @param password
      */
-    public void login (String userName, String passworld) ;
+    public void login (String userName, String password) ;
+
+    public void loginout (String userName ,String  password);
 }
