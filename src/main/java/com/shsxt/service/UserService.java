@@ -12,5 +12,8 @@ public interface UserService {
      */
     public void login (String userName, String password) ;
 
+    /**
+        修改冲突注释
+    */
     public void loginout (String userName ,String  password);
 }
