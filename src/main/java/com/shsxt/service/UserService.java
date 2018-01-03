@@ -17,7 +17,7 @@ public interface UserService {
      * @param userName
      * @param password
      * asdfg
-     * ytrew
+     * ytrewuiop
      */
     public void loginout (String userName ,String  password);
 
