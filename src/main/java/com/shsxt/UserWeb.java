@@ -5,6 +5,10 @@ package com.shsxt;
  */
 public class UserWeb {
 
+    public static void main(String[] args) {
+        System.out.println(" hello world");
+    }
+
 
 
 }
