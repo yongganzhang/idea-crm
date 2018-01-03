@@ -16,6 +16,7 @@ public interface UserService {
      * 用户退出
      * @param userName
      * @param password
+     * ytrew
      */
     public void loginout (String userName ,String  password);
 
