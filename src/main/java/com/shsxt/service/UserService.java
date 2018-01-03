@@ -12,5 +12,11 @@ public interface UserService {
      */
     public void login (String userName, String password) ;
 
+    /**
+     * 用户退出
+     * @param userName
+     * @param password
+     */
     public void loginout (String userName ,String  password);
+
 }
